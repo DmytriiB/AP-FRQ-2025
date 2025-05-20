@@ -1,7 +1,7 @@
-## Question 1 Analysis
-### 
+## Question 2 Analysis
+### SignedText
 
-This section contains my analysis of Question 1 (Methods and Control Structures):
+This section contains my analysis of Question 1 (Class):
 
 #### My initial approach during the exam:
 - 

@@ -4,7 +4,7 @@
 This section contains my analysis of Question 1 (Methods and Control Structures):
 
 #### My initial approach during the exam:
-- My intial aproach was to just use the if and else statements.
+- My intial aproach was to use Math.min to compare.
   
 #### My revised solution after review:
 - Ideas here

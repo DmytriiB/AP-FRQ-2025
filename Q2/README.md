@@ -1,7 +1,7 @@
 ## Question 2 Analysis
 ### SignedText
 
-This section contains my analysis of Question 1 (Class):
+This section contains my analysis of Question 2 (Class):
 
 #### My initial approach during the exam:
 - 

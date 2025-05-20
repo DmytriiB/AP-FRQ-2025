@@ -10,7 +10,9 @@ This section contains my analysis of Question 1 (Class):
 - 
   
 #### Key concepts tested in this question:
-- 
+- Class structure
+- Methods
+- if and else
  
 #### What I learned from revisiting this problem:
 - 

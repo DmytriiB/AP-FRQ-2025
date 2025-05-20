@@ -4,13 +4,14 @@
 This section contains my analysis of Question 1 (Methods and Control Structures):
 
 #### My initial approach during the exam:
-- My intial aproach was to use Math.min to compare.
+- My intial aproach was to use Math.min to compare in the if and else statements.
   
 #### My revised solution after review:
-- Ideas here
+- I decided to just use operators like > instead of Math.min cause its just simplifyes the code.
   
 #### Key concepts tested in this question:
-- Ideas here
+- If and else statements
+- Boolean expressions
   
 #### What I learned from revisiting this problem:
-- Ideas here
+- I learned that there is many ways of actually solving this problem
